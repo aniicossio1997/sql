@@ -1,4 +1,4 @@
-#TP SQL
+# TP1 SQL
 
 Realizado con  [SQLite](https://sqliteonline.com/) 
  1.  Cree una tabla llamada CURSO con los atributos:
