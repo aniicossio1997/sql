@@ -1,4 +1,4 @@
-
+#TP SQL
 
 Realizado con  [SQLite](https://sqliteonline.com/) 
  1.  Cree una tabla llamada CURSO con los atributos:
@@ -62,16 +62,17 @@ CREATE TABLE curso (codigo integer PRIMARY KEY NOT NULL, nombre varchar NOT NULL
 6.  Actualice, para todos los cursos, el cupo en 25.
    
 
->     Antes de la actualización:
+	 Antes de la actualización:
 
     
     ![enter image description here](https://github.com/aniicossio1997/sql/blob/main/e-6-prev.png)
+    
     ```
     Consulta:
     UPDATE curso SET cupo = 25;
     ```
 
->     Después de la actualización
+	Después de la actualización
 
     
     ![enter image description here](https://github.com/aniicossio1997/sql/blob/main/e-6-after.png)
