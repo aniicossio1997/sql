@@ -39,7 +39,8 @@ CREATE TABLE curso (codigo integer PRIMARY KEY NOT NULL, nombre varchar NOT NULL
 	```
 	
 	
-	  **Resultado**
+	  **Resultado**:
+	  
 	  ![enter image description here](https://github.com/aniicossio1997/sql/blob/main/e3-2.png)
 	  
 
