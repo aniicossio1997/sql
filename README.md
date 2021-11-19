@@ -30,17 +30,18 @@ CREATE TABLE curso (codigo integer PRIMARY KEY NOT NULL, nombre varchar NOT NULL
            ![enter image description here](https://github.com/aniicossio1997/sql/blob/main/e3-1.png)
   
      2.  (102, “Matemática Discreta”,””,”Tarde”,30)
-        ```
+        
+	```
         Consulta:
         insert into curso(codigo, nombre, descripcion,turno,cupo)
         VALUES (102, "Matemática Discreta","","tarde",30);
         
 	```
-        
 	
-	**Resultado**
 	
-  	![enter image description here](https://github.com/aniicossio1997/sql/blob/main/e3-2.png)
+	  **Resultado**
+	  ![enter image description here](https://github.com/aniicossio1997/sql/blob/main/e3-2.png)
+	  
 
 4.  Intente ingresar un registro con el nombre nulo y verifique que no funciona.
     ```
